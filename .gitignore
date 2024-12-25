@@ -1,0 +1,10 @@
+.vscode/
+CMakeCache.txt
+CMakeFiles/
+PiPicture
+build/
+cmake_install.cmake
+opencv-4.x/
+src/
+image.png
+Makefile
